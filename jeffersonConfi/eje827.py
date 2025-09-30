@@ -1,0 +1,6 @@
+edad=input("ingresa tu edad: ")
+altura=input("ingresa tu altura: ")
+edadint=int(edad)
+alturafloat=float(altura)
+print("tu edad es de ",edadint)
+print("tu altura es de ",alturafloat)
